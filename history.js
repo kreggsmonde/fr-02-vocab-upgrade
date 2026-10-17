@@ -8,6 +8,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.04,
     "video_file": "podcast_ep1_20261016_032719.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 2,
+    "topic": "L'Art de Dire 'Merci' Sans Répéter : Vocabulaire Sophistiqué pour une Gratitude Authentique",
+    "date": "2026-10-17T11:59:50.212847",
+    "duration_sec": 1320.31,
+    "duration_min": 22.01,
+    "video_file": "podcast_ep2_20261017_113750.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
