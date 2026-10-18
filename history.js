@@ -17,6 +17,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.01,
     "video_file": "podcast_ep2_20261017_113750.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "Dire 'Je m'ennuie' comme un(e) vrai(e) Parisien(ne) : Évitez la Faitise !",
+    "date": "2026-10-18T05:58:31.538568",
+    "duration_sec": 1293.17,
+    "duration_min": 21.55,
+    "video_file": "podcast_ep3_20261018_054227.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
