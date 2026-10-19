@@ -25,5 +25,14 @@
     "duration_min": 21.55,
     "video_file": "podcast_ep3_20261018_054227.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "Oubliez 'C'est cool' : Exprimer l'Appréciation avec Style en Français Moderne",
+    "date": "2026-10-19T06:16:37.488595",
+    "duration_sec": 1292.35,
+    "duration_min": 21.54,
+    "video_file": "podcast_ep4_20261019_055907.mp4",
+    "platform": "Facebook"
   }
 ]
