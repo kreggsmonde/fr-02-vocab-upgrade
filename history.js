@@ -35,6 +35,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.54,
     "video_file": "podcast_ep4_20261019_055907.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "Dire 'Je suis fatigué(e)' sans perdre sa prestance : Le vocabulaire secret des noctambules et des lève-tôt",
+    "date": "2026-10-20T06:06:44.473714",
+    "duration_sec": 1270.34,
+    "duration_min": 21.17,
+    "video_file": "podcast_ep5_20261020_055309.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
