@@ -43,5 +43,14 @@
     "duration_min": 21.17,
     "video_file": "podcast_ep5_20261020_055309.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 6,
+    "topic": "Dire 'J'aime bien' : Naviguer les Nuances de l'Appréciation en Français",
+    "date": "2026-10-21T06:16:53.567603",
+    "duration_sec": 1257.65,
+    "duration_min": 20.96,
+    "video_file": "podcast_ep6_20261021_055413.mp4",
+    "platform": "Facebook"
   }
 ]
