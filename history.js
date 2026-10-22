@@ -53,6 +53,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.96,
     "video_file": "podcast_ep6_20261021_055413.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 7,
+    "topic": "Dire 'Je suis occupé(e)' sans passer pour un(e) surmené(e) : Le vocabulaire des gens qui ont du répondant",
+    "date": "2026-10-22T06:20:29.251401",
+    "duration_sec": 1387.17,
+    "duration_min": 23.12,
+    "video_file": "podcast_ep7_20261022_055756.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
