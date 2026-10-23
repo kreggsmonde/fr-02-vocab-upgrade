@@ -61,5 +61,14 @@
     "duration_min": 23.12,
     "video_file": "podcast_ep7_20261022_055756.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 8,
+    "topic": "Exit les banalités : Dire 'Au revoir' avec panache et laisser une trace mémorable",
+    "date": "2026-10-23T06:10:07.520207",
+    "duration_sec": 1415.71,
+    "duration_min": 23.6,
+    "video_file": "podcast_ep8_20261023_055518.mp4",
+    "platform": "Facebook"
   }
 ]
