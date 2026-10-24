@@ -71,6 +71,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.6,
     "video_file": "podcast_ep8_20261023_055518.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "Dire 'Pas de problème' avec panache : L'art de minimiser et de rassurer en français",
+    "date": "2026-10-24T05:59:53.809770",
+    "duration_sec": 1275.48,
+    "duration_min": 21.26,
+    "video_file": "podcast_ep9_20261024_053857.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
