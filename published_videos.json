@@ -79,5 +79,14 @@
     "duration_min": 21.26,
     "video_file": "podcast_ep9_20261024_053857.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 10,
+    "topic": "Dire 'J'ai faim' sans grogner : Le vocabulaire gourmet des gourmands",
+    "date": "2026-10-25T06:11:19.689460",
+    "duration_sec": 1329.05,
+    "duration_min": 22.15,
+    "video_file": "podcast_ep10_20261025_055356.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
