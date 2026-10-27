@@ -98,6 +98,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.89,
     "video_file": "podcast_ep11_20261026_055838.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "De 'J'ai mal' à 'Ça va aller' : Gérer les Petits Bobos et les Grosses Chagrins",
+    "date": "2026-10-27T06:33:11.731923",
+    "duration_sec": 1354.03,
+    "duration_min": 22.57,
+    "video_file": "podcast_ep12_20261027_061003.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
