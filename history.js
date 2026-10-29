@@ -107,6 +107,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.57,
     "video_file": "podcast_ep12_20261027_061003.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 13,
+    "topic": "Dire 'J'ai froid' comme un vrai Français : Au-delà du frisson !",
+    "date": "2026-10-29T07:15:15.609930",
+    "duration_sec": 1234.63,
+    "duration_min": 20.58,
+    "video_file": "podcast_ep13_20261029_065636.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
