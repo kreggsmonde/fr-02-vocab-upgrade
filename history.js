@@ -116,6 +116,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.58,
     "video_file": "podcast_ep13_20261029_065636.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 14,
+    "topic": "Oubliez 'Je suis désolé(e)' : Exprimer des Excuses avec Sincérité et Élégance",
+    "date": "2026-10-30T07:20:31.027816",
+    "duration_sec": 1325.73,
+    "duration_min": 22.1,
+    "video_file": "podcast_ep14_20261030_065908.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
