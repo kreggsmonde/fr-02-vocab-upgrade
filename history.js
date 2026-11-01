@@ -134,6 +134,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.09,
     "video_file": "podcast_ep15_20261031_065324.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 16,
+    "topic": "Au-delà de 'C'est bizarre' : Décrire l'Inattendu avec Style en Français",
+    "date": "2026-11-01T07:39:42.380827",
+    "duration_sec": 1218.43,
+    "duration_min": 20.31,
+    "video_file": "podcast_ep16_20261101_072055.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
