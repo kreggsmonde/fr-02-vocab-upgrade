@@ -151,5 +151,14 @@
     "duration_min": 20.41,
     "video_file": "podcast_ep17_20261102_073416.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "Dire 'Je suis perdu(e)' sans perdre la tête : Naviguer dans la Confusion avec Chic",
+    "date": "2026-11-03T08:06:36.109457",
+    "duration_sec": 1246.92,
+    "duration_min": 20.78,
+    "video_file": "podcast_ep18_20261103_074719.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
