@@ -160,5 +160,14 @@
     "duration_min": 20.78,
     "video_file": "podcast_ep18_20261103_074719.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 19,
+    "topic": "Oubliez 'C'est compliqué' : Simplifier le Langage des Situations Épineuses",
+    "date": "2026-11-04T07:47:52.398645",
+    "duration_sec": 1311.5,
+    "duration_min": 21.86,
+    "video_file": "podcast_ep19_20261104_072741.mp4",
+    "platform": "Facebook"
   }
 ]
