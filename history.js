@@ -170,6 +170,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.86,
     "video_file": "podcast_ep19_20261104_072741.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 20,
+    "topic": "Dire 'Je ne sais pas' avec panache : Évitez le syndrome du mur blanc !",
+    "date": "2026-11-05T08:07:18.056138",
+    "duration_sec": 1215.98,
+    "duration_min": 20.27,
+    "video_file": "podcast_ep20_20261105_075128.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
