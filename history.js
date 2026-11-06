@@ -179,6 +179,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.27,
     "video_file": "podcast_ep20_20261105_075128.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 21,
+    "topic": "Weekend Adventures and Epic Fails",
+    "date": "2026-11-06T08:04:03.466752",
+    "duration_sec": 1263.36,
+    "duration_min": 21.06,
+    "video_file": "podcast_ep21_20261106_075143.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
