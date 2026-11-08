@@ -197,6 +197,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.11,
     "video_file": "podcast_ep22_20261107_065956.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "Dire 'J'ai sommeil' sans faire le lit : Le vocabulaire des grands dormeurs et des insomniaques",
+    "date": "2026-11-08T07:27:57.790998",
+    "duration_sec": 1245.48,
+    "duration_min": 20.76,
+    "video_file": "podcast_ep23_20261108_070936.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
