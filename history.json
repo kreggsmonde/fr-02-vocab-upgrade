@@ -205,5 +205,14 @@
     "duration_min": 20.76,
     "video_file": "podcast_ep23_20261108_070936.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 24,
+    "topic": "Exit 'Je suis fatigué' : Énergisez Votre Discours avec le Lexique du Dynamisme",
+    "date": "2026-11-09T08:09:57.497212",
+    "duration_sec": 1243.41,
+    "duration_min": 20.72,
+    "video_file": "podcast_ep24_20261109_075048.mp4",
+    "platform": "Facebook"
   }
 ]
