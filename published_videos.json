@@ -223,5 +223,14 @@
     "duration_min": 21.07,
     "video_file": "podcast_ep25_20261110_081921.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 26,
+    "topic": "Dire 'Je suis nulle' avec humour : Transformer la maladresse en charme à la française",
+    "date": "2026-11-11T07:57:26.778454",
+    "duration_sec": 1309.56,
+    "duration_min": 21.83,
+    "video_file": "podcast_ep26_20261111_074123.mp4",
+    "platform": "Facebook"
   }
 ]
