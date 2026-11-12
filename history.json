@@ -232,5 +232,14 @@
     "duration_min": 21.83,
     "video_file": "podcast_ep26_20261111_074123.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "Exit 'Je suis là' : S'annoncer avec assurance et style à la française",
+    "date": "2026-11-12T08:26:31.216697",
+    "duration_sec": 1271.54,
+    "duration_min": 21.19,
+    "video_file": "podcast_ep27_20261112_081011.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
