@@ -260,6 +260,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.12,
     "video_file": "podcast_ep29_20261114_073112.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "Dire 'Je suis d'accord' : L'Art d'Acquiescer avec Nuance et Style",
+    "date": "2026-11-15T07:59:37.375087",
+    "duration_sec": 1200.14,
+    "duration_min": 20.0,
+    "video_file": "podcast_ep30_20261115_074427.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
