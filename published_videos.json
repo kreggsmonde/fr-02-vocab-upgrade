@@ -268,5 +268,14 @@
     "duration_min": 20.0,
     "video_file": "podcast_ep30_20261115_074427.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "Exit le 'Salut' : Accueillir et Saluer avec le Charme Français",
+    "date": "2026-11-16T08:03:09.281660",
+    "duration_sec": 1281.26,
+    "duration_min": 21.35,
+    "video_file": "podcast_ep31_20261116_075115.mp4",
+    "platform": "Facebook"
   }
 ]
