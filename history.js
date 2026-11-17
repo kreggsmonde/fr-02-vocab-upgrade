@@ -278,6 +278,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.35,
     "video_file": "podcast_ep31_20261116_075115.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "Au-delà de 'Je suis occupé(e)' : Gérer les Impératifs avec Fluidité et Charme",
+    "date": "2026-11-17T09:19:48.000936",
+    "duration_sec": 1278.77,
+    "duration_min": 21.31,
+    "video_file": "podcast_ep32_20261117_085946.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
