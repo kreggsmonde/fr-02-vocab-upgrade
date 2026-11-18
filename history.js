@@ -287,6 +287,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.31,
     "video_file": "podcast_ep32_20261117_085946.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 33,
+    "topic": "Fini le 'C'est gentil' : Dire Merci avec l'Élégance et la Subtilité Française",
+    "date": "2026-11-18T08:42:01.249665",
+    "duration_sec": 1325.16,
+    "duration_min": 22.09,
+    "video_file": "podcast_ep33_20261118_082611.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
