@@ -295,5 +295,14 @@
     "duration_min": 22.09,
     "video_file": "podcast_ep33_20261118_082611.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 34,
+    "topic": "Dites 'Non' avec Style : L'Art de Refuser sans Casser les Codes en Français",
+    "date": "2026-11-19T09:04:17.439798",
+    "duration_sec": 1354.8,
+    "duration_min": 22.58,
+    "video_file": "podcast_ep34_20261119_084334.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
