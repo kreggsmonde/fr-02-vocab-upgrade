@@ -314,6 +314,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.27,
     "video_file": "podcast_ep35_20261120_082114.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 36,
+    "topic": "Au-delà du 'C'est cool' : Décrire l'Extraordinaire avec Éclat en Français",
+    "date": "2026-11-21T08:35:44.133261",
+    "duration_sec": 1326.24,
+    "duration_min": 22.1,
+    "video_file": "podcast_ep36_20261121_081153.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
