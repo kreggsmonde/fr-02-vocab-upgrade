@@ -323,6 +323,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.1,
     "video_file": "podcast_ep36_20261121_081153.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 37,
+    "topic": "Dire 'C'est nul' sans plomber l'ambiance : L'art de critiquer avec humour et finesse",
+    "date": "2026-11-22T08:11:16.412233",
+    "duration_sec": 1244.13,
+    "duration_min": 20.74,
+    "video_file": "podcast_ep37_20261122_075531.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
