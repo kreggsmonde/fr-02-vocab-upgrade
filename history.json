@@ -331,5 +331,14 @@
     "duration_min": 20.74,
     "video_file": "podcast_ep37_20261122_075531.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 38,
+    "topic": "Exit les 'C'est vrai' ! Affirmer avec assurance et panache en français",
+    "date": "2026-11-23T09:11:35.452509",
+    "duration_sec": 1230.26,
+    "duration_min": 20.5,
+    "video_file": "podcast_ep38_20261123_085209.mp4",
+    "platform": "Facebook"
   }
 ]
