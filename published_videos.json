@@ -340,5 +340,14 @@
     "duration_min": 20.5,
     "video_file": "podcast_ep38_20261123_085209.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 39,
+    "topic": "L'Art de Dire 'Je t'aime' : Au-delà des Trois Petits Mots Mous",
+    "date": "2026-11-24T11:05:18.734798",
+    "duration_sec": 1273.44,
+    "duration_min": 21.22,
+    "video_file": "podcast_ep39_20261124_104859.mp4",
+    "platform": "Facebook, YouTube"
   }
 ]
