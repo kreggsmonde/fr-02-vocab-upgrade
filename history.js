@@ -350,6 +350,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.22,
     "video_file": "podcast_ep39_20261124_104859.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 40,
+    "topic": "Dire 'Pas de problème' sans passer pour un robot : La maestria des réponses positives et proactives en français",
+    "date": "2026-11-25T10:01:30.636026",
+    "duration_sec": 1340.88,
+    "duration_min": 22.35,
+    "video_file": "podcast_ep40_20261125_094418.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
