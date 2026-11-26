@@ -359,6 +359,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.35,
     "video_file": "podcast_ep40_20261125_094418.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 41,
+    "topic": "Dire 'J'en ai marre' sans casser les codes : L'art d'exprimer son exaspération avec style",
+    "date": "2026-11-26T09:36:03.335656",
+    "duration_sec": 1208.73,
+    "duration_min": 20.15,
+    "video_file": "podcast_ep41_20261126_092111.mp4",
+    "platform": "Facebook, YouTube"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
