@@ -367,5 +367,14 @@
     "duration_min": 20.15,
     "video_file": "podcast_ep41_20261126_092111.mp4",
     "platform": "Facebook, YouTube"
+  },
+  {
+    "episode": 42,
+    "topic": "De 'J'ai peur' à 'Ça me rend fou' : Dompter ses angoisses avec panache",
+    "date": "2026-11-27T09:52:49.274993",
+    "duration_sec": 1281.84,
+    "duration_min": 21.36,
+    "video_file": "podcast_ep42_20261127_093608.mp4",
+    "platform": "Facebook"
   }
 ]
