@@ -376,5 +376,14 @@
     "duration_min": 21.36,
     "video_file": "podcast_ep42_20261127_093608.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 43,
+    "topic": "Dire 'Je suis fatigué' comme un prof : Évitez la lassitude, déconstruisez le langage du surmenage",
+    "date": "2026-11-28T09:07:01.261175",
+    "duration_sec": 1133.33,
+    "duration_min": 18.89,
+    "video_file": "podcast_ep43_20261128_084938.mp4",
+    "platform": "None"
   }
 ]
